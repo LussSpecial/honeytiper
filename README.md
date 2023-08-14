@@ -21,22 +21,22 @@
 </div>
 
 ##### 맡은파트:
-팀장, 프로젝트 통합
+<b2>팀장, 프로젝트 통합</b2>
 
-FAQ
+#####FAQ
 <img width="70%" src="https://github.com/LussSpecial/honeytiper/assets/131222823/258e98b9-f7e1-479a-9d3e-e996c7cbda83">
 
-관리자FAQ
+#####관리자FAQ
 <img width="70%" src="https://github.com/LussSpecial/honeytiper/assets/131222823/d38ab788-3c23-494c-9fb6-98d0305bf064">
 
-관리자FAQ 등록
+#####관리자FAQ 등록
 <img width="70%" src="https://github.com/LussSpecial/honeytiper/assets/131222823/95c8ca98-7f5a-4783-9789-b141c1d104d2">
 
-공지사항
+#####공지사항
 <img width="70%" src="https://github.com/LussSpecial/honeytiper/assets/131222823/3580a719-3b74-4b08-a721-4b951029866c">
 
-관리자 공지사항
+#####관리자 공지사항
 <img width="70%" src="https://github.com/LussSpecial/honeytiper/assets/131222823/3231ec41-f82b-489c-9b62-f087c1121d6a">
 
-관리자 메인페이지
+#####관리자 메인페이지
 <img width="70%" src="https://github.com/LussSpecial/honeytiper/assets/131222823/11926d9b-6b0f-42d0-87cb-60f47c295e63">
