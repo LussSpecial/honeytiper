@@ -35,7 +35,7 @@
 ##### 공지사항
 <img width="70%" src="https://github.com/LussSpecial/honeytiper/assets/131222823/3580a719-3b74-4b08-a721-4b951029866c">
 
-#####관리자 공지사항
+##### 관리자 공지사항
 <img width="70%" src="https://github.com/LussSpecial/honeytiper/assets/131222823/3231ec41-f82b-489c-9b62-f087c1121d6a">
 
 ##### 관리자 메인페이지
