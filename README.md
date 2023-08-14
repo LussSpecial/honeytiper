@@ -21,7 +21,7 @@
 </div>
 
 ##### 맡은파트:
-<b2>팀장, 프로젝트 통합</b2>
+##### 팀장, 프로젝트 통합, 공지사항, FAQ, 관리자페이지
 
 ##### FAQ
 <img width="70%" src="https://github.com/LussSpecial/honeytiper/assets/131222823/258e98b9-f7e1-479a-9d3e-e996c7cbda83">
